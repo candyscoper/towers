@@ -1,2 +1,2 @@
-# towers
+# Python Game
 Tower of Hanoi
